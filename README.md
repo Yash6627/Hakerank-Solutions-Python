@@ -12,7 +12,7 @@ My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes 
 <hr>
 <b>Hackerrank Python Domain</b>
 
-![alt Hackerrank Python Domain](https://raw.githubusercontent.com/arsho/Hackerrank_Python_Domain_Solutions/master/Hackerrank_Python_Domain.png)
+![alt Hackerrank Python Domain](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=solved)
 
 <hr>
 <b>Solutions listed in Hackerrank_Python_Domain_Solutions</b>
